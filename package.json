@@ -1,0 +1,23 @@
+{
+  "name": "bull-sheet-ui",
+  "version": "1.0.0",
+  "description": "ui kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderBykovskiy/bull-seet-ui.git"
+  },
+  "keywords": [
+    "react.js-ui",
+    "next.js-ui"
+  ],
+  "author": "Alexander Bykovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderBykovskiy/bull-seet-ui/issues"
+  },
+  "homepage": "https://github.com/AlexanderBykovskiy/bull-seet-ui#readme"
+}
